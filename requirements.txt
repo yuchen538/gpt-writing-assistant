@@ -1,4 +1,4 @@
-echo "streamlit>=1.25.0
+streamlit>=1.25.0
 openai>=1.0.0
 python-dotenv>=1.0.0
-python-docx>=1.0.0" > requirements.txt
+python-docx>=1.0.0
